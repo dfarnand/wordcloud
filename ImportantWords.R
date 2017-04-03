@@ -1,5 +1,4 @@
 require(tm)
-require(purrr)
 require(SnowballC)
 require(wordcloud)
 
